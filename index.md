@@ -58,7 +58,3 @@ satisfies:
 
 {{ download_button }}
 {{ cad_link }}
-
-{{ repo_url }}
-
-{{ cad_url }}
